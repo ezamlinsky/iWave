@@ -1,0 +1,10 @@
+<data>
+<oscillator position="-4.000000" magnitude="1.000000" wavelength="2.000000" phase="0.000000" beta="0.000000" enabled="1"/>
+<oscillator position="-3.000000" magnitude="1.000000" wavelength="2.000000" phase="135.000000" beta="0.000000" enabled="1"/>
+<oscillator position="-2.000000" magnitude="1.000000" wavelength="2.000000" phase="270.000000" beta="0.000000" enabled="1"/>
+<oscillator position="-1.000000" magnitude="1.000000" wavelength="2.000000" phase="45.000000" beta="0.000000" enabled="1"/>
+<oscillator position="0.000000" magnitude="1.000000" wavelength="2.000000" phase="180.000000" beta="0.000000" enabled="1"/>
+<oscillator position="1.000000" magnitude="1.000000" wavelength="2.000000" phase="315.000000" beta="0.000000" enabled="1"/>
+<oscillator position="2.000000" magnitude="1.000000" wavelength="2.000000" phase="90.000000" beta="0.000000" enabled="1"/>
+<oscillator position="3.000000" magnitude="1.000000" wavelength="2.000000" phase="225.000000" beta="0.000000" enabled="1"/>
+</data>
